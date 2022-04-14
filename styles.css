@@ -25,7 +25,7 @@ body{
     height: 400px;
     transform: translate(0, -50px);
     background-image: url(./images/bg-pattern-card.svg);
-    background-size:390px;
+    background-size:375px;
     background-repeat: no-repeat;
 }
 .pfp{
