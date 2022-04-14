@@ -80,6 +80,22 @@ body{
 }
 
 
+@media (min-width: 400px){
+
+    body{
+        align-items: flex-start;
+    }
+    .maincard{
+        width: 350px;
+        justify-content: center;
+        margin-top: 15%;
+        
+    }
+
+
+
+}
+
 
 
 
